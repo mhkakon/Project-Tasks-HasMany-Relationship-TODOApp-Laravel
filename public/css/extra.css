@@ -1,0 +1,39 @@
+
+.table-datas{
+    margin-top: 65px;
+}
+
+
+.text-style{
+    
+    font-weight: lighter;
+    color: gray;
+    text-align: center;
+}
+
+.add-spacing{
+    margin-top: 250px;
+}
+
+
+.link-color{
+    color: gray;
+    text-decoration: none;
+}
+
+.color{
+    color: gray;
+}
+
+.lighter{
+    font-weight: lighter;
+}
+
+.no-decoration a:hover{
+    text-decoration: none;
+}
+
+.no-decoration a:visited{
+    text-decoration: none;
+    color: black;
+}
